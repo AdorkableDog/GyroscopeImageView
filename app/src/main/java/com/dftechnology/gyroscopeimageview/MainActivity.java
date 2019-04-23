@@ -28,14 +28,10 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 		gyroscopeIv = (GyroscopeImageView) findViewById(R.id.vr_pano);
 		mRecycleerView = (RecyclerView) findViewById(R.id.recyclerView);
-
 		LinearLayoutManager layoutManager = new LinearLayoutManager(MainActivity.this, LinearLayoutManager.HORIZONTAL, false);
 		mRecycleerView.setLayoutManager(layoutManager);
-
 		imageData.add("http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1010/09/c1/5445799_5445799_1286585762968.jpg");
 		imageData.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556000840641&di=817c5729ea1b8093405008472f2fe4d3&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01cf1055437dd90000019ae9b0e8c5.jpg");
-
-
 		hotRecommAdapter = new HotRecommAdapter(MainActivity.this, imageData);
 		mRecycleerView.setAdapter(hotRecommAdapter);
 
