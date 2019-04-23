@@ -7,6 +7,8 @@
 
 ## 效果
 
+![图片描述](https://raw.githubusercontent.com/AdorkableDog/GyroscopeImageView/master/screenshot/SVID_20190423_170935_1.gif)
+
 ![图片描述](https://raw.githubusercontent.com/AdorkableDog/GyroscopeImageView/master/screenshot/screenshot.jpg)
 
 ## 具体代码使用
