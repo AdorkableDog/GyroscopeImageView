@@ -22,6 +22,7 @@
 		}
 
 	在onPause执行unregister();
+	
 		@Override
 		protected void onPause() {
 			super.onPause();
@@ -29,6 +30,7 @@
 		}
 
 	在onResume执行register();
+	
 		@Override
 		protected void onResume() {
 			super.onResume();
@@ -51,8 +53,8 @@
 			});
 		}
 
-		图片还是使用了第三方的图片展示，不过显示的imageView 做了自定义，能够相应陀螺仪和手势事件（此处做了处理）具体代码在
-		GyroscopeImageView.java 和 GyroscopeManager.java 两个类中，有兴趣的小伙伴可以看看源码了解一下
+	图片还是使用了第三方的图片展示，不过显示的imageView 做了自定义，能够相应陀螺仪和手势事件（此处做了处理）具体代码在
+	GyroscopeImageView.java 和 GyroscopeManager.java 两个类中，有兴趣的小伙伴可以看看源码了解一下
 ##
 
 
