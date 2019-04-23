@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="C1AC_65_BE">#1A65BE</color>
+    <color name="transparent">#00000000</color>
+    <color name="C3E_8F_EA">#3e8fea</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="C10_10_10">#101010</color>
+    <color name="CE7_E7_E7">#E7E7E7</color>
+    <color name="C64_64_64">#646464</color>
+    <color name="C80_00_00_00">#68000000</color>
+    <color name="CFF_10_10_10">#FF101010</color>
+    <color name="black">#000000</color>
+
+    <color name="CED_F0_F1">#aaedf0f1</color>
+    <color name="CE8_3C_3C">#E83C3C</color>
+
+    <color name="CED_F1_F4">#EDF1F4</color>
+    <color name="RippleColor">#B7B7B7</color>
+    <color name="C1E_1E_1E">#1E1E1E</color>
+    <color name="CF8_F8_F8">#F8F8F8</color>
+    <color name="C85_85_85">#858585</color>
+    <color name="CE4_E4_E4">#E4E4E4</color>
+    <color name="C88_88_88">#888888</color>
+    <color name="C99_99_99">#999999</color>
+    <color name="C40_40_40">#404040</color>
+</resources>

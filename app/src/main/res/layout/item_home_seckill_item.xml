@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/home_hot_ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dis10"
+        android:paddingTop="@dimen/dis10">
+        <!--android:background="@color/C80_00_00_00"-->
+
+        <ImageView
+            android:id="@+id/home_hot_iv1"
+            android:layout_width="@dimen/dis90"
+            android:layout_height="@dimen/dis70"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/default_goods"
+            />
+
+        <TextView
+            android:id="@+id/home_hot_tv_title1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="1"
+            android:paddingLeft="@dimen/dis10"
+            android:paddingRight="@dimen/dis5"
+            android:paddingTop="@dimen/dis5"
+            android:text="上午12.00"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font14"
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
