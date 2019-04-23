@@ -39,9 +39,6 @@ public class MainActivity extends AppCompatActivity {
 		hotRecommAdapter = new HotRecommAdapter(MainActivity.this, imageData);
 		mRecycleerView.setAdapter(hotRecommAdapter);
 
-
-
-
 		gyroscopeIv.post(new Runnable() {
 			@Override
 			public void run() {
