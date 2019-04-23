@@ -9,6 +9,8 @@
 
 ![图片描述](https://raw.githubusercontent.com/AdorkableDog/GyroscopeImageView/master/screenshot/SVID_20190423_170935_1.gif)
 
+ GIF图显示和真实显示效果有所差距， 实际效果为手势左右滑动加手机左右旋转。
+
 ![图片描述](https://raw.githubusercontent.com/AdorkableDog/GyroscopeImageView/master/screenshot/screenshot.jpg)
 
 ## 具体代码使用
