@@ -56,7 +56,23 @@
 	图片还是使用了第三方的图片展示，不过显示的imageView 做了自定义，能够相应陀螺仪和手势事件（此处做了处理）具体代码在
 	GyroscopeImageView.java 和 GyroscopeManager.java 两个类中，有兴趣的小伙伴可以看看源码了解一下
 ##
+## License
 
+    Copyright 2016 
+    
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+        http://www.apache.org/licenses/LICENSE-2.0
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+## 如果喜欢，还请statr&Fork&follow进行支持，谢谢O(∩_∩)O~。
 
 	
 
