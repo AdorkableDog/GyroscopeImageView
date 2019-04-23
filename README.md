@@ -7,6 +7,7 @@
 
 # 效果与对比
 
+![Pandao editor.md](https://github.com/AdorkableDog/GyroscopeImageView/blob/master/sceenshot/SVID_20190423_170935_1.mp4 "Pandao editor.md")
 
 
 
