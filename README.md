@@ -76,7 +76,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-## 如果喜欢，还请statr&Fork&follow进行支持，谢谢O(∩_∩)O~。
+## 如果喜欢，还请start&Fork&follow进行支持，谢谢O(∩_∩)O~。
 
 	
 
